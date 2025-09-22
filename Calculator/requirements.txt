@@ -1,0 +1,4 @@
+# No external requirements. Uses Python standard library and Tkinter.
+# Make sure Tkinter is installed for your Python distribution.
+
+python>=3.8
